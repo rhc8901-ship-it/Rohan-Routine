@@ -1,0 +1,6 @@
+{
+  "appId": "com.rohanchauhan.dailyroutine",
+  "appName": "Rohan Chauhan Daily Routine Plans",
+  "webDir": "www",
+  "android": { "backgroundColor": "#0b0e1c" }
+}
